@@ -1,3 +1,7 @@
 'use strict';
-alert(1)
-[0,3].push()
+
+
+var money = "ваш бюджет на месяц?";
+prompt ("money");
+var time = "Введите дату в формате YYYY-MM-DD";
+prompt ("time");
